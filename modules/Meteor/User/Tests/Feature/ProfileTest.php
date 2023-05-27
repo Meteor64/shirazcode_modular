@@ -1,6 +1,6 @@
 <?php
 
-namespace Tests\Feature;
+namespace Meteor\User\Tests\Feature;
 
 use Illuminate\Foundation\Testing\RefreshDatabase;
 use Meteor\User\Models\User;

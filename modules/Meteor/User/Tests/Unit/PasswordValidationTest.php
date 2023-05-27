@@ -1,6 +1,6 @@
 <?php
 
-namespace Tests\Unit;
+namespace Meteor\User\Tests\Unit;
 
 use Meteor\User\Rules\ValidPassword;
 use PHPUnit\Framework\TestCase;
